@@ -5,7 +5,7 @@ standard library, compiler, and language spec.
 
 For Scala 3, visit [scala/scala3](https://github.com/scala/scala3).
 
-# How to contribute
+# How to contribute  
 
 Issues and bug reports for Scala 2 are located in [scala/bug](https://github.com/scala/bug). That tracker is also where new contributors may find issues to work on: [good first issues](https://github.com/scala/bug/labels/good%20first%20issue), [help wanted](https://github.com/scala/bug/labels/help%20wanted).
 
